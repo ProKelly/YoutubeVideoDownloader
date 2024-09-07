@@ -1,0 +1,5 @@
+db.sqlite3
+.history
+.vscode 
+.*pyc
+__pycache__
